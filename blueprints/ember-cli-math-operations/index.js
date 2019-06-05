@@ -1,8 +1,9 @@
 /* eslint-env node */
 module.exports = {
   description: '',
+  normalizeEntityName: function () {},
   afterInstall: function () {
-    return this.addBowerPackageToProject('@fictionlover/math-operations', '8.0.1');
+    return this.addPackageToProject('@fictionlover/math-operations', '8.0.1');
   }
 
   // locals(options) {
