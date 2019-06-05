@@ -1,5 +1,3 @@
-ember-cli-math-operations
-==============================================================================
 
 [Short description of the addon.]
 
@@ -48,3 +46,5 @@ License
 ------------------------------------------------------------------------------
 
 This project is licensed under the [MIT License](LICENSE.md).
+=======
+# ember-cli-math-operations
